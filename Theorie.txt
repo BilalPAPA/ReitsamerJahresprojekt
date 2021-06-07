@@ -1,0 +1,26 @@
+Express ist ein einfaches und flexibles Node. js-Framework von Webanwendungen, das zahlreiche leistungsfähige Features und Funktionen für Webanwendungen und mobile Anwendungen bereitstellt.
+
+Express APIs
+Mithilfe unzähliger HTTP-Dienstprogrammmethoden und Middlewarefunktionen gestaltet sich das Erstellen einer leistungsfähigen API schnell und einfach.
+
+Leistung
+Express bietet eine Thin-Layer-Ebene mit grundlegenden Webanwendungsfunktionen, ohne die bekannten Node.js-Features zu überlagern.
+
+
+MongoDB ist ein dokumentenorientiertes NoSQL-Datenbankmanagementsystem, das in der Programmiersprache C++ geschrieben ist. Da die Datenbank dokumentenorientiert ist, kann sie Sammlungen von JSON-ähnlichen Dokumenten verwalten.
+
+Mongoose ist ein Framework, welches auf dem nativen MongoDB-Driver aufsetzt und diesen um umfangreiche Modelfunktionen erweitert. ... Auch die Verwendung von virtuellen Feldern, die zwar vom Server benutzt werden können, aber nicht in der MongoDB-Datenbank gespeichert werden sollen, sind möglich.
+
+Socket.IO ist eine JavaScript-Bibliothek für Echtzeit-Webanwendungen. Es ermöglicht bidirektionale Echtzeit-Kommunikation zwischen Webclients und Servern. Es besteht aus zwei Teilen: einer clientseitigen Bibliothek, die im Browser des Benutzers läuft, und einer serverseitigen Bibliothek für Node.js.
+
+Heroku ist ein Service, der es Unternehmen ermöglicht, ihre Zeit mit der Entwicklung und Bereitstellung von Anwendungen zu verbringen, die sofort einen Mehrwert bieten. Mit Heroku Enterprise ist es möglich, Anwendungen für Kunden in der Programmiersprache und mit den Werkzeugen, die bevorzugt werden, zu erstellen.
+
+async function
+ Die async function Deklaration definiert eine asynchrone Funktion, die ein AsyncFunction Objekt zurück gibt. Asynchrone Funktionen laufen über den Event Loop außerhalb des üblichen Kontrollflusses, und geben als Ergebnis ein implizites Promise Objekt zurück. Die Syntax und der Aufbau des Codes bei einer asynchronen Funktion ähnelt allerdings der den standardmässigen synchronen Funktionen.
+
+Eine async function kann auch durch den async function expression Ausdruck definiert werden.
+
+What are async functions? async functions let you write Promise -based code as if it were synchronous. Once you define a function using the async keyword, then you can use the await keyword within the function's body. When the async function is called, it returns with a Promise .
+
+
+
